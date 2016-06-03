@@ -1,0 +1,362 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:17:"5.6.11-1ubuntu3.4";s:10:"yiiVersion";s:5:"2.0.8";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.8";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:17:"5.6.11-1ubuntu3.4";s:6:"xdebug";b:1;s:3:"apc";b:1;s:8:"memcache";b:0;}s:10:"extensions";a:35:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:66:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:66:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:64:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:60:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:58:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:60:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-faker";}}s:25:"kartik-v/yii2-krajee-base";a:3:{s:4:"name";s:25:"kartik-v/yii2-krajee-base";s:7:"version";s:7:"1.8.5.0";s:5:"alias";a:1:{s:12:"@kartik/base";s:67:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-krajee-base";}}s:30:"kartik-v/yii2-widget-typeahead";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-typeahead";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:17:"@kartik/typeahead";s:72:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-typeahead";}}s:30:"kartik-v/yii2-widget-touchspin";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-touchspin";s:7:"version";s:7:"1.2.1.0";s:5:"alias";a:1:{s:17:"@kartik/touchspin";s:72:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-touchspin";}}s:31:"kartik-v/yii2-widget-timepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-timepicker";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:12:"@kartik/time";s:73:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-timepicker";}}s:32:"kartik-v/yii2-widget-switchinput";a:3:{s:4:"name";s:32:"kartik-v/yii2-widget-switchinput";s:7:"version";s:7:"1.3.1.0";s:5:"alias";a:1:{s:19:"@kartik/switchinput";s:74:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-switchinput";}}s:28:"kartik-v/yii2-widget-spinner";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-spinner";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/spinner";s:70:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-spinner";}}s:28:"kartik-v/yii2-widget-sidenav";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-sidenav";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:15:"@kartik/sidenav";s:70:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-sidenav";}}s:28:"kartik-v/yii2-widget-select2";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-select2";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:15:"@kartik/select2";s:70:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-select2";}}s:27:"kartik-v/yii2-widget-rating";a:3:{s:4:"name";s:27:"kartik-v/yii2-widget-rating";s:7:"version";s:7:"1.0.2.0";s:5:"alias";a:1:{s:14:"@kartik/rating";s:69:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-rating";}}s:31:"kartik-v/yii2-widget-rangeinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-rangeinput";s:7:"version";s:7:"1.0.1.0";s:5:"alias";a:1:{s:13:"@kartik/range";s:73:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-rangeinput";}}s:26:"kartik-v/yii2-widget-growl";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-growl";s:7:"version";s:7:"1.1.1.0";s:5:"alias";a:1:{s:13:"@kartik/growl";s:68:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-growl";}}s:30:"kartik-v/yii2-widget-fileinput";a:3:{s:4:"name";s:30:"kartik-v/yii2-widget-fileinput";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:12:"@kartik/file";s:72:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-fileinput";}}s:28:"kartik-v/yii2-widget-depdrop";a:3:{s:4:"name";s:28:"kartik-v/yii2-widget-depdrop";s:7:"version";s:7:"1.0.4.0";s:5:"alias";a:1:{s:15:"@kartik/depdrop";s:70:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-depdrop";}}s:35:"kartik-v/yii2-widget-datetimepicker";a:3:{s:4:"name";s:35:"kartik-v/yii2-widget-datetimepicker";s:7:"version";s:7:"1.4.2.0";s:5:"alias";a:1:{s:16:"@kartik/datetime";s:77:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-datetimepicker";}}s:31:"kartik-v/yii2-widget-colorinput";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-colorinput";s:7:"version";s:7:"1.0.3.0";s:5:"alias";a:1:{s:13:"@kartik/color";s:73:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-colorinput";}}s:26:"kartik-v/yii2-widget-alert";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-alert";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:13:"@kartik/alert";s:68:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-alert";}}s:26:"kartik-v/yii2-widget-affix";a:3:{s:4:"name";s:26:"kartik-v/yii2-widget-affix";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:13:"@kartik/affix";s:68:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-affix";}}s:31:"kartik-v/yii2-widget-activeform";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-activeform";s:7:"version";s:7:"1.4.7.0";s:5:"alias";a:1:{s:12:"@kartik/form";s:73:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform";}}s:21:"kartik-v/yii2-widgets";a:3:{s:4:"name";s:21:"kartik-v/yii2-widgets";s:7:"version";s:7:"3.4.0.0";s:5:"alias";a:1:{s:15:"@kartik/widgets";s:63:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widgets";}}s:21:"kartik-v/yii2-helpers";a:3:{s:4:"name";s:21:"kartik-v/yii2-helpers";s:7:"version";s:7:"1.3.5.0";s:5:"alias";a:1:{s:15:"@kartik/helpers";s:63:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-helpers";}}s:25:"kartik-v/yii2-detail-view";a:3:{s:4:"name";s:25:"kartik-v/yii2-detail-view";s:7:"version";s:7:"1.7.4.0";s:5:"alias";a:1:{s:14:"@kartik/detail";s:67:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-detail-view";}}s:18:"kartik-v/yii2-grid";a:3:{s:4:"name";s:18:"kartik-v/yii2-grid";s:7:"version";s:7:"3.1.1.0";s:5:"alias";a:1:{s:12:"@kartik/grid";s:60:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-grid";}}s:21:"kartik-v/yii2-builder";a:3:{s:4:"name";s:21:"kartik-v/yii2-builder";s:7:"version";s:7:"1.6.1.0";s:5:"alias";a:1:{s:15:"@kartik/builder";s:63:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:58:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2-jui";}}s:19:"kartik-v/yii2-icons";a:3:{s:4:"name";s:19:"kartik-v/yii2-icons";s:7:"version";s:7:"1.4.1.0";s:5:"alias";a:1:{s:13:"@kartik/icons";s:61:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-icons";}}s:25:"kartik-v/yii2-datecontrol";a:3:{s:4:"name";s:25:"kartik-v/yii2-datecontrol";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:19:"@kartik/datecontrol";s:67:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-datecontrol";}}s:31:"kartik-v/yii2-widget-datepicker";a:3:{s:4:"name";s:31:"kartik-v/yii2-widget-datepicker";s:7:"version";s:11:"9999999-dev";s:5:"alias";a:1:{s:12:"@kartik/date";s:73:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-datepicker";}}s:20:"kartik-v/yii2-export";a:3:{s:4:"name";s:20:"kartik-v/yii2-export";s:7:"version";s:7:"1.2.5.0";s:5:"alias";a:1:{s:14:"@kartik/export";s:62:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-export";}}s:18:"kartik-v/yii2-mpdf";a:3:{s:4:"name";s:18:"kartik-v/yii2-mpdf";s:7:"version";s:7:"1.0.0.0";s:5:"alias";a:1:{s:12:"@kartik/mpdf";s:60:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-mpdf";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:10:{s:4:"host";s:10:"crud.local";s:10:"connection";s:10:"keep-alive";s:13:"cache-control";s:9:"max-age=0";s:6:"accept";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:25:"upgrade-insecure-requests";s:1:"1";s:10:"user-agent";s:135:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36";s:7:"referer";s:253:"http://crud.local/backend/web/cashdesk-timesheet/index?CashdeskTimesheetSearch%5Bcashier%5D=&CashdeskTimesheetSearch%5Bid%5D=&CashdeskTimesheetSearch%5Bcashdesk%5D=&CashdeskTimesheetSearch%5Bopendt%5D=&CashdeskTimesheetSearch%5Bclosedt%5D=&sort=-cashier";s:15:"accept-encoding";s:19:"gzip, deflate, sdch";s:15:"accept-language";s:35:"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4";s:6:"cookie";s:210:"PHPSESSID=9h9kevjth7tmj9p8mnfk9g9fv7; _csrf=70e887b2b652010ebdc02d6c482ddc38222813ccb123ef4dbab9266a9117e252a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%228zHjk0rKCMyCHNKOpsWsxZKTUw_hWAQF%22%3B%7D";}s:15:"responseHeaders";a:4:{s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:25:"cashdesk-timesheet/create";s:6:"action";s:63:"backend\controllers\CashdeskTimesheetController::actionCreate()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:35:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:10:"crud.local";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:18:"HTTP_CACHE_CONTROL";s:9:"max-age=0";s:11:"HTTP_ACCEPT";s:74:"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8";s:30:"HTTP_UPGRADE_INSECURE_REQUESTS";s:1:"1";s:15:"HTTP_USER_AGENT";s:135:"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/50.0.2661.102 Chrome/50.0.2661.102 Safari/537.36";s:12:"HTTP_REFERER";s:253:"http://crud.local/backend/web/cashdesk-timesheet/index?CashdeskTimesheetSearch%5Bcashier%5D=&CashdeskTimesheetSearch%5Bid%5D=&CashdeskTimesheetSearch%5Bcashdesk%5D=&CashdeskTimesheetSearch%5Bopendt%5D=&CashdeskTimesheetSearch%5Bclosedt%5D=&sort=-cashier";s:20:"HTTP_ACCEPT_ENCODING";s:19:"gzip, deflate, sdch";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4";s:11:"HTTP_COOKIE";s:210:"PHPSESSID=9h9kevjth7tmj9p8mnfk9g9fv7; _csrf=70e887b2b652010ebdc02d6c482ddc38222813ccb123ef4dbab9266a9117e252a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%228zHjk0rKCMyCHNKOpsWsxZKTUw_hWAQF%22%3B%7D";s:4:"PATH";s:60:"/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin";s:16:"SERVER_SIGNATURE";s:71:"<address>Apache/2.4.12 (Ubuntu) Server at crud.local Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:22:"Apache/2.4.12 (Ubuntu)";s:11:"SERVER_NAME";s:10:"crud.local";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:34:"/home/sir1us/webservers/crud.local";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:34:"/home/sir1us/webservers/crud.local";s:12:"SERVER_ADMIN";s:18:"[no address given]";s:15:"SCRIPT_FILENAME";s:56:"/home/sir1us/webservers/crud.local/backend/web/index.php";s:11:"REMOTE_PORT";s:5:"46402";s:12:"REDIRECT_URL";s:38:"/backend/web/cashdesk-timesheet/create";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:38:"/backend/web/cashdesk-timesheet/create";s:11:"SCRIPT_NAME";s:22:"/backend/web/index.php";s:8:"PHP_SELF";s:22:"/backend/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1464867204.819;s:12:"REQUEST_TIME";i:1464867204;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:2:{s:9:"PHPSESSID";s:26:"9h9kevjth7tmj9p8mnfk9g9fv7";s:5:"_csrf";s:130:"70e887b2b652010ebdc02d6c482ddc38222813ccb123ef4dbab9266a9117e252a:2:{i:0;s:5:"_csrf";i:1;s:32:"8zHjk0rKCMyCHNKOpsWsxZKTUw_hWAQF";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}s:3:"log";a:1:{s:8:"messages";a:17:{i:0;a:5:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1464867204.821223;i:4;a:0:{}}i:1;a:5:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1464867204.8212521;i:4;a:0:{}}i:2;a:5:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1464867204.821835;i:4;a:0:{}}i:3;a:5:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1464867204.8221481;i:4;a:0:{}}i:4;a:5:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1464867204.822222;i:4;a:0:{}}i:5;a:5:{i:0;s:55:"No matching URL rules. Using default URL parsing logic.";i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1464867204.8225009;i:4;a:0:{}}i:6;a:5:{i:0;s:44:"Route requested: 'cashdesk-timesheet/create'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1464867204.8225231;i:4;a:0:{}}i:7;a:5:{i:0;s:39:"Route to run: cashdesk-timesheet/create";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1464867204.8227789;i:4;a:0:{}}i:8;a:5:{i:0;s:79:"Running action: backend\controllers\CashdeskTimesheetController::actionCreate()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1464867204.822969;i:4;a:0:{}}i:9;a:5:{i:0;s:99:"Rendering view file: /home/sir1us/webservers/crud.local/backend/views/cashdesk-timesheet/create.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1464867204.8233089;i:4;a:1:{i:0;a:5:{s:4:"file";s:86:"/home/sir1us/webservers/crud.local/backend/controllers/CashdeskTimesheetController.php";s:4:"line";i:76;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:10;a:5:{i:0;s:98:"Rendering view file: /home/sir1us/webservers/crud.local/backend/views/cashdesk-timesheet/_form.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1464867204.823441;i:4;a:2:{i:0;a:5:{s:4:"file";s:78:"/home/sir1us/webservers/crud.local/backend/views/cashdesk-timesheet/create.php";s:4:"line";i:20;s:8:"function";s:6:"render";s:5:"class";s:13:"yii\base\View";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/home/sir1us/webservers/crud.local/backend/controllers/CashdeskTimesheetController.php";s:4:"line";i:76;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:11;a:5:{i:0;s:66:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=check";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1464867204.8252959;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:14;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'cashdesk_timesheet'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8288851;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:17;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='cashdesk_timesheet'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.832958;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:20;a:5:{i:0;s:27:"Loading module: datecontrol";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1464867204.8373899;i:4;a:3:{i:0;a:5:{s:4:"file";s:78:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-krajee-base/Config.php";s:4:"line";i:257;s:8:"function";s:9:"getModule";s:5:"class";s:15:"yii\base\Module";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:78:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-krajee-base/Config.php";s:4:"line";i:273;s:8:"function";s:9:"getModule";s:5:"class";s:18:"kartik\base\Config";s:4:"type";s:2:"::";}i:2;a:5:{s:4:"file";s:83:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-datecontrol/DateControl.php";s:4:"line";i:181;s:8:"function";s:10:"initModule";s:5:"class";s:18:"kartik\base\Config";s:4:"type";s:2:"::";}}}i:21;a:5:{i:0;s:86:"Rendering view file: /home/sir1us/webservers/crud.local/backend/views/layouts/main.php";i:1;i:8;i:2;s:25:"yii\base\View::renderFile";i:3;d:1464867204.8404961;i:4;a:1:{i:0;a:5:{s:4:"file";s:86:"/home/sir1us/webservers/crud.local/backend/controllers/CashdeskTimesheetController.php";s:4:"line";i:76;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}i:22;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1464867204.8410089;i:4;a:2:{i:0;a:5:{s:4:"file";s:65:"/home/sir1us/webservers/crud.local/backend/views/layouts/main.php";s:4:"line";i:40;s:8:"function";s:5:"__get";s:5:"class";s:18:"yii\base\Component";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:86:"/home/sir1us/webservers/crud.local/backend/controllers/CashdeskTimesheetController.php";s:4:"line";i:76;s:8:"function";s:6:"render";s:5:"class";s:19:"yii\base\Controller";s:4:"type";s:2:"->";}}}}}s:9:"profiling";a:3:{s:6:"memory";i:3714096;s:4:"time";d:0.023118019104003906;s:8:"messages";a:6:{i:12;a:5:{i:0;s:66:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=check";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1464867204.8253429;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:13;a:5:{i:0;s:66:"Opening DB connection: pgsql:host=localhost;port=5432;dbname=check";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1464867204.8286829;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:15;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'cashdesk_timesheet'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8289509;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'cashdesk_timesheet'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8325629;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:18;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='cashdesk_timesheet'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.833035;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='cashdesk_timesheet'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8347831;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}}}s:2:"db";a:1:{s:8:"messages";a:4:{i:15;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'cashdesk_timesheet'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8289509;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:16;a:5:{i:0;s:1964:"SELECT
+    d.nspname AS table_schema,
+    c.relname AS table_name,
+    a.attname AS column_name,
+    t.typname AS data_type,
+    a.attlen AS character_maximum_length,
+    pg_catalog.col_description(c.oid, a.attnum) AS column_comment,
+    a.atttypmod AS modifier,
+    a.attnotnull = false AS is_nullable,
+    CAST(pg_get_expr(ad.adbin, ad.adrelid) AS varchar) AS column_default,
+    coalesce(pg_get_expr(ad.adbin, ad.adrelid) ~ 'nextval',false) AS is_autoinc,
+    array_to_string((select array_agg(enumlabel) from pg_enum where enumtypid=a.atttypid)::varchar[],',') as enum_values,
+    CASE atttypid
+         WHEN 21 /*int2*/ THEN 16
+         WHEN 23 /*int4*/ THEN 32
+         WHEN 20 /*int8*/ THEN 64
+         WHEN 1700 /*numeric*/ THEN
+              CASE WHEN atttypmod = -1
+               THEN null
+               ELSE ((atttypmod - 4) >> 16) & 65535
+               END
+         WHEN 700 /*float4*/ THEN 24 /*FLT_MANT_DIG*/
+         WHEN 701 /*float8*/ THEN 53 /*DBL_MANT_DIG*/
+         ELSE null
+      END   AS numeric_precision,
+      CASE
+        WHEN atttypid IN (21, 23, 20) THEN 0
+        WHEN atttypid IN (1700) THEN
+        CASE
+            WHEN atttypmod = -1 THEN null
+            ELSE (atttypmod - 4) & 65535
+        END
+           ELSE null
+      END AS numeric_scale,
+    CAST(
+             information_schema._pg_char_max_length(information_schema._pg_truetypid(a, t), information_schema._pg_truetypmod(a, t))
+             AS numeric
+    ) AS size,
+    a.attnum = any (ct.conkey) as is_pkey
+FROM
+    pg_class c
+    LEFT JOIN pg_attribute a ON a.attrelid = c.oid
+    LEFT JOIN pg_attrdef ad ON a.attrelid = ad.adrelid AND a.attnum = ad.adnum
+    LEFT JOIN pg_type t ON a.atttypid = t.oid
+    LEFT JOIN pg_namespace d ON d.oid = c.relnamespace
+    LEFT join pg_constraint ct on ct.conrelid=c.oid and ct.contype='p'
+WHERE
+    a.attnum > 0 and t.typname != ''
+    and c.relname = 'cashdesk_timesheet'
+    and d.nspname = 'public'
+ORDER BY
+    a.attnum;";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8325629;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:18;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='cashdesk_timesheet'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.833035;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}i:19;a:5:{i:0;s:886:"select
+    ct.conname as constraint_name,
+    a.attname as column_name,
+    fc.relname as foreign_table_name,
+    fns.nspname as foreign_table_schema,
+    fa.attname as foreign_column_name
+from
+    (SELECT ct.conname, ct.conrelid, ct.confrelid, ct.conkey, ct.contype, ct.confkey, generate_subscripts(ct.conkey, 1) AS s
+       FROM pg_constraint ct
+    ) AS ct
+    inner join pg_class c on c.oid=ct.conrelid
+    inner join pg_namespace ns on c.relnamespace=ns.oid
+    inner join pg_attribute a on a.attrelid=ct.conrelid and a.attnum = ct.conkey[ct.s]
+    left join pg_class fc on fc.oid=ct.confrelid
+    left join pg_namespace fns on fc.relnamespace=fns.oid
+    left join pg_attribute fa on fa.attrelid=ct.confrelid and fa.attnum = ct.confkey[ct.s]
+where
+    ct.contype='f'
+    and c.relname='cashdesk_timesheet'
+    and ns.nspname='public'
+order by
+    fns.nspname, fc.relname, a.attnum";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1464867204.8347831;i:4;a:3:{i:0;a:5:{s:4:"file";s:89:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/ActiveField.php";s:4:"line";i:529;s:8:"function";s:9:"textInput";s:5:"class";s:23:"yii\widgets\ActiveField";s:4:"type";s:2:"->";}i:1;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:249;s:8:"function";s:9:"textInput";s:5:"class";s:23:"kartik\form\ActiveField";s:4:"type";s:2:"->";}i:2;a:5:{s:4:"file";s:76:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/BaseForm.php";s:4:"line";i:183;s:8:"function";s:20:"renderRawActiveInput";s:5:"class";s:23:"kartik\builder\BaseForm";s:4:"type";s:2:"::";}}}}}s:6:"assets";a:13:{s:27:"kartik\form\ActiveFormAsset";a:9:{s:7:"depends";a:1:{i:0;s:34:"yii\bootstrap\BootstrapPluginAsset";}s:2:"js";a:1:{i:0;s:16:"js/activeform.js";}s:3:"css";a:1:{i:0;s:18:"css/activeform.css";}s:10:"sourcePath";s:80:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-activeform/assets";s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/4924aefb";s:7:"baseUrl";s:28:"/backend/web/assets/4924aefb";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:34:"yii\bootstrap\BootstrapPluginAsset";a:9:{s:10:"sourcePath";s:62:"/home/sir1us/webservers/crud.local/vendor/bower/bootstrap/dist";s:2:"js";a:1:{i:0;s:15:"js/bootstrap.js";}s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/5f773afa";s:7:"baseUrl";s:28:"/backend/web/assets/5f773afa";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:59:"/home/sir1us/webservers/crud.local/vendor/bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/95e3d2e5";s:7:"baseUrl";s:28:"/backend/web/assets/95e3d2e5";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:28:"yii\bootstrap\BootstrapAsset";a:9:{s:10:"sourcePath";s:62:"/home/sir1us/webservers/crud.local/vendor/bower/bootstrap/dist";s:3:"css";a:1:{i:0;s:17:"css/bootstrap.css";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/5f773afa";s:7:"baseUrl";s:28:"/backend/web/assets/5f773afa";s:7:"depends";a:0:{}s:2:"js";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:24:"kartik\builder\FormAsset";a:9:{s:2:"js";a:1:{i:0;s:10:"js/form.js";}s:3:"css";a:1:{i:0;s:12:"css/form.css";}s:10:"sourcePath";s:70:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-builder/assets";s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/f00a4a8c";s:7:"baseUrl";s:28:"/backend/web/assets/f00a4a8c";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:30:"yii\validators\ValidationAsset";a:9:{s:10:"sourcePath";s:61:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.validation.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/121a2399";s:7:"baseUrl";s:28:"/backend/web/assets/121a2399";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:61:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/121a2399";s:7:"baseUrl";s:28:"/backend/web/assets/121a2399";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:37:"kartik\datecontrol\DateFormatterAsset";a:9:{s:2:"js";a:1:{i:0;s:24:"js/php-date-formatter.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:69:"/home/sir1us/webservers/crud.local/vendor/kartik-v/php-date-formatter";s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/6e1edc67";s:7:"baseUrl";s:28:"/backend/web/assets/6e1edc67";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:35:"kartik\datecontrol\DateControlAsset";a:9:{s:2:"js";a:1:{i:0;s:17:"js/datecontrol.js";}s:3:"css";a:0:{}s:10:"sourcePath";s:74:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-datecontrol/assets";s:7:"depends";a:3:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";i:2;s:37:"kartik\datecontrol\DateFormatterAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/54f26017";s:7:"baseUrl";s:28:"/backend/web/assets/54f26017";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:23:"kartik\base\WidgetAsset";a:9:{s:2:"js";a:1:{i:0;s:16:"js/kv-widgets.js";}s:3:"css";a:1:{i:0;s:18:"css/kv-widgets.css";}s:10:"sourcePath";s:74:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-krajee-base/assets";s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/ec819b31";s:7:"baseUrl";s:28:"/backend/web/assets/ec819b31";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:35:"kartik\datetime\DateTimePickerAsset";a:9:{s:2:"js";a:1:{i:0;s:30:"js/bootstrap-datetimepicker.js";}s:3:"css";a:2:{i:0;s:32:"css/bootstrap-datetimepicker.css";i:1;s:25:"css/datetimepicker-kv.css";}s:10:"sourcePath";s:84:"/home/sir1us/webservers/crud.local/vendor/kartik-v/yii2-widget-datetimepicker/assets";s:7:"depends";a:2:{i:0;s:19:"yii\web\JqueryAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/fd92347b";s:7:"baseUrl";s:28:"/backend/web/assets/fd92347b";s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:27:"yii\widgets\ActiveFormAsset";a:9:{s:10:"sourcePath";s:61:"/home/sir1us/webservers/crud.local/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:17:"yii.activeForm.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:62:"/home/sir1us/webservers/crud.local/backend/web/assets/121a2399";s:7:"baseUrl";s:28:"/backend/web/assets/121a2399";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:23:"backend\assets\AppAsset";a:9:{s:8:"basePath";s:46:"/home/sir1us/webservers/crud.local/backend/web";s:7:"baseUrl";s:12:"/backend/web";s:3:"css";a:1:{i:0;s:12:"css/site.css";}s:2:"js";a:0:{}s:7:"depends";a:2:{i:0;s:16:"yii\web\YiiAsset";i:1;s:28:"yii\bootstrap\BootstrapAsset";}s:10:"sourcePath";N;s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"57501984c8abc";s:3:"url";s:55:"http://crud.local/backend/web/cashdesk-timesheet/create";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1464867204;s:10:"statusCode";i:200;s:8:"sqlCount";i:2;s:9:"mailCount";i:0;}}
